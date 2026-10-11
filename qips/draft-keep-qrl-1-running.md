@@ -41,7 +41,9 @@ Unlike a token on 2.0 (PR #47), keeping the chain needs no hard fork and no brid
 
 The Foundation is preferred because it already has the knowledge, infrastructure and trust. It also stands to benefit. Its 8.45 million QRL, held untouched since genesis, would be credited on 2.0 and stay live on 1.0 as well.
 
-Value is split between two assets, not doubled.
+Different people want different things from a chain. Some want smart contracts and staking, which 2.0 offers. Others want a simple store of value, which 1.0 already is. Keeping both serves both groups instead of making everyone choose.
+
+1.0 is also in a category of its own, a post-quantum proof-of-work store of value with hash-based keys, running without interruption since 2018. New projects are launching into this space, such as Quantus in 2026, but with lattice signatures. The market sets the value of each asset, and this QIP makes no claim about price.
 
 ## Backward compatibility
 
