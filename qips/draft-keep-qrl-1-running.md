@@ -22,7 +22,7 @@ The QRL Foundation is the preferred steward, running 1.0 in maintenance mode. It
 - 1.0's accounts and consensus don't depend on lattices. 2.0's validators sign with ML-DSA-87, so its consensus rests on lattices even after hash-based wallets arrive.
 - Nobody is forced to move, and 1.0's record of running without interruption since 2018 continues.
 - Miners keep a home.
-- Shutting down a working chain brings its own complaints and costs.
+- Shutting down 1.0 hands competitors a weapon. QRL's strongest claim is a chain that has never stopped since 2018. After a shutdown, rivals can say "QRL shuts down," and it would be literally true. For a project built on long-term security, that ties the QRL name to unreliability, and it is hard to undo.
 
 ## Specification
 
