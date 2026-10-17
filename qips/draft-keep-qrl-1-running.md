@@ -28,7 +28,7 @@ The QRL Foundation is the preferred steward, running 1.0 in maintenance mode. It
 
 1. **No halt.** 1.0 keeps producing blocks after the snapshot, and its balances stay spendable.
 2. **Snapshot as planned.** Every 1.0 balance is credited on 2.0 as already planned.
-3. **Key rule.** XMSS sub-keys are one-time. The 2.0 claim tool signs with each address's highest unused sub-key, while 1.0 wallets keep using the lowest, so no sub-key is used on both chains.
+3. **Key rule.** XMSS sub-keys are one-time. The 2.0 claim tool signs with each address's highest unused sub-key below index 8,192, while 1.0 wallets keep using the lowest, so no sub-key is used on both chains.
 4. **Tickers.** 2.0 keeps QRL. 1.0 takes a new ticker, and the Foundation has the final say.
 5. **Steward.**
    - **Option A (preferred).** The Foundation runs 1.0 in maintenance mode, security fixes only. It can hire a maintainer, including a community member, and can switch to Option B later. 2.0's staff and timeline are untouched.
